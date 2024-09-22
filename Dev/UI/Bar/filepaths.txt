@@ -1,0 +1,13 @@
+090224203beac744346c8281 = UI/Bar/B101.png
+090224a03beac7446891936b = UI/Bar/B102.png
+0902aaa03beac74420af3339 = UI/Bar/B201.png
+0902baa03beac744c7fa3488 = UI/Bar/B202.png
+0902b2203beac744eb779d69 = UI/Bar/B203.png
+0902b3203beac744de0c9bb7 = UI/Bar/B204.png
+0902b2a03beac744359fbc1c = UI/Bar/B205.png
+0902c2a03beac74488232911 = UI/Bar/B301.png
+0902d2a03beac744f0a28a16 = UI/Bar/B302.png
+0902ca203beac744182054cd = UI/Bar/B303.png
+0902cb203beac7442a536fcf = UI/Bar/B304.png
+0902caa03beac744edfd7f66 = UI/Bar/B305.png
+09100ac06c0f0acdb73a1be6 = UI/Bar/B400.png
