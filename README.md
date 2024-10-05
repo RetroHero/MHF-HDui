@@ -9,7 +9,7 @@ So thanks to comrade [Monkbreh](https://github.com/Monkbreh/MHFU-Texture-Port)'s
 
 Most textures were adjusted manually and some interface units had to be redone from scratch to deliver something closer to a sharper result.
 
-👍$`\textcolor{red}{\text{I would like to give due credit to my comrades [AFOOT03939](https://github.com/AFOOT03939) and [Monkbreh](https://github.com/Monkbreh/MHFU-Texture-Port), for the use of various textures from their respective projects.}}`$
+👍$`\textcolor{red}{\text{I would like to give due credit to my comrades (AFOOT03939) and (Monkbreh), for the use of various textures from their respective projects.}}`$
 $`\textcolor{red}{\text{Without them, it would not be possible to finalize this, so thank you.}}`$
 
 I hope you like it!!!
