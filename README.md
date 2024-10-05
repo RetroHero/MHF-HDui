@@ -13,3 +13,13 @@ Most textures were adjusted manually and some interface units had to be redone f
 $`\textcolor{red}{\text{Without them, it would not be possible to finalize this, so thank you.}}`$
 
 I hope you like it!!!
+![Bar SD](https://github.com/user-attachments/assets/bc2639ed-e543-4f02-a393-1eabb235a002)
+![Bar HD](https://github.com/user-attachments/assets/0cb630a2-14e8-4b82-8e66-fbb560a130de)
+![MAP](https://github.com/user-attachments/assets/e8ca07f5-3908-46fb-acd1-62b14f1b94d2)
+![Quest Board](https://github.com/user-attachments/assets/56f03ce9-5e1a-4b5c-96a6-bd2782b41a43)
+![Load SD](https://github.com/user-attachments/assets/65aa23b1-0d28-4dfe-8e1c-b8e82a7729ce)
+![Load HD](https://github.com/user-attachments/assets/db313e36-13a6-4cc6-a630-334fb16f59c0)
+![Training SD](https://github.com/user-attachments/assets/50a25eb3-3f03-479e-af96-00c5b1982268)
+![Training HD](https://github.com/user-attachments/assets/4d80606c-2aa9-47e5-9422-443fd1f8b7ac)
+![Gallery SD](https://github.com/user-attachments/assets/6c498ecc-ea31-4468-8289-3041846619ec)
+![Gallery HD](https://github.com/user-attachments/assets/b884b41c-2485-4a89-b6b9-cee304638714)
