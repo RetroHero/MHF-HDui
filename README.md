@@ -9,6 +9,12 @@ So thanks to comrade [Monkbreh](https://github.com/Monkbreh/MHFU-Texture-Port)'s
 
 Most textures were adjusted manually and some interface units had to be redone from scratch to deliver something closer to a sharper result.
 
+> [!IMPORTANT]  
+> Attention, it is necessary to delete the following conflicting files for the package to load correctly:
+![image](https://github.com/user-attachments/assets/90f404ce-27d8-4c4a-a72f-605f2c9503d4)
+For Windows, here's a CMD script to easily delete them, but for Android you'll need to delete them manually.
+
+
 👍$`\textcolor{red}{\text{I would like to give due credit to my comrades (AFOOT03939) and (Monkbreh), for the use of various textures from their respective projects.}}`$
 $`\textcolor{red}{\text{Without them, it would not be possible to finalize this, so thank you.}}`$
 
